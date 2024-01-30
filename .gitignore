@@ -1,0 +1,6 @@
+# Ignore these files
+*.png
+*.tif
+*.tiff
+*.DS_Store
+*.zip
