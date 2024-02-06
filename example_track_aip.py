@@ -16,6 +16,7 @@ from skimage import transform, feature, draw
 #path = "2Month_Exaiptasia_Images/2023.10.16/CC7.290.3_2023.10.16.png" # Manual value optimised example.
 path = "2Month_Exaiptasia_Images/2023.10.20/CC7.290.3_2023.10.20.png" # Non-value optimised example (based on prev).
 #path = "2Month_Exaiptasia_Images/2023.10.20/H2.340.3_2023.10.20.png" # Non-value optimised, different strain (based on first).
+# (TBD) Try bad example (i.e. later times).
 img = plt.imread(path) # Load desired image.
 
 # Convert RGB to grey-scale (inefficient).

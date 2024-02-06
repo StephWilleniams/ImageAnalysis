@@ -17,7 +17,7 @@ for ents in os.listdir(path):
 #    pass
 
 # Load in the images
-ind1 = 7;
+ind1 = 7
 #ind2 = 5;
 date_string1 = dir_list[ind1]
 #date_string2 = dir_list[ind2]
@@ -54,7 +54,7 @@ padding = 50
 
 max_x_R = np.max(test_line_x[1+int(len(test_line_x)/2):-1])
 np.arg
-index_x_R = int(  )
+#index_x_R = int(  )
 
 ndex_x_L = np.argmax(test_line_x[0:int(len(test_line_x)/2)]) + padding
 
