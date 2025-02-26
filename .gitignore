@@ -2,5 +2,6 @@
 *.png
 *.tif
 *.tiff
+*.txt
 *.DS_Store
 *.zip
